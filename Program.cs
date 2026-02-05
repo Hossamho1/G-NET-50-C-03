@@ -52,7 +52,7 @@ namespace ConsoleApp2
             //Console.WriteLine(x);
 
 
-            Console.Write("Enter a number: ");
+            Console.Write("Enter a  number: ");
             string input = Console.ReadLine();
             int number;
             if (int.TryParse(input, out number))

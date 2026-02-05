@@ -166,7 +166,7 @@ namespace ConsoleApp2
 
             #region Question 14
 
-            //string? s = null;
+            //string? s =  null;
 
             // A
             // int a = int.Parse(s);  

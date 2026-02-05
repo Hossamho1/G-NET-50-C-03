@@ -76,7 +76,7 @@ namespace ConsoleApp2
             // a=11  
             Console.WriteLine("The integer 10 is stored in an object variable." +
                 "This is called boxing that converts value type into a referecne type " +
-                " Unboxing: converting the object back  so a equals 11 after adding 1");
+                " Unboxing: converting  the object back  so a equals 11 after adding 1");
 
             #endregion
 

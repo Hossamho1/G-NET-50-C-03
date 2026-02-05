@@ -40,7 +40,7 @@ namespace ConsoleApp2
             #endregion
             #region Question 4
             //string s = "12a";
-            //int l = int.Parse(s);
+            //int l = int.Parse( s);
             //Console.WriteLine(x);
 
             Console.WriteLine("This case throws a FormatException because the character cannot be directly converted, although Convert.ToInt32 converts a char to its Unicode value.");

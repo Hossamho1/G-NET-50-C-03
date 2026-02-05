@@ -115,7 +115,7 @@ namespace ConsoleApp2
 
             string? name2 = null;
             int length = name2?.Length ?? 0;
-            Console.WriteLine("name2 is a nullable reference type with value null.   " +
+            Console.WriteLine("name2 is  a nullable reference type with value null.   " +
                 "The ?. is the null-conditional operator." +
                 "Returns name2.Length if name2 is not null; otherwise returns null.." +
                 "If the left-hand side (name2?.Length) is null, it returns the right-hand side (0).." 

@@ -141,7 +141,7 @@ namespace ConsoleApp2
 
             //string? s = null; 
             //Console.WriteLine(s!.Length);
-            Console.WriteLine("s is a nullable string (null)." +
+            Console.WriteLine(" s is a nullable string (null)." +
                 "s! is the null-forgiving operator, which tells the compiler \"trust me, this is not null.\"." +
                 "So this is not completely safe." +
                 "Problem: At runtime, s is actually null. Accessing s.Length causes a NullReferenceException..");

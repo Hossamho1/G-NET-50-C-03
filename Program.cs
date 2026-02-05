@@ -27,7 +27,7 @@ namespace ConsoleApp2
             #endregion
 
             #region Question 3
-            Console.Write("Enter your age: ");
+            Console.Write("Enter  your age: ");
             int age;
             if (int.TryParse(Console.ReadLine(), out age))
             {

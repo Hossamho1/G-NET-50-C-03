@@ -186,7 +186,7 @@ namespace ConsoleApp2
 
             string? user = null;
 
-            // Use null-coalescing operator with ToUpper
+            // Use null-coalescing operator with ToUpper  a
             Console.WriteLine((user?.ToUpper()) ?? "Guest");
 
             // If user = "Hossam" → prints "HOSSAM"

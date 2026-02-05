@@ -83,7 +83,7 @@ namespace ConsoleApp2
             #region Question 7
             //object o = 10;
             //long x = (long)o;
-            Console.WriteLine("o contains an integer (boxed), so unboxing must match the original type (int). Then it can be safely converted to long.");
+            Console.WriteLine(" o contains an integer (boxed), so unboxing must match the original type (int). Then it can be safely converted to long.");
 
             #endregion
             #region Question 8

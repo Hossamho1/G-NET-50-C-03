@@ -127,7 +127,7 @@ namespace ConsoleApp2
             //int x = int.Parse(s ?? "0");
             // Console.WriteLine(x);
 
-            Console.WriteLine("s ?? \"0\" only handles null." +
+            Console.WriteLine("s ?? \"0\"  only handles null." +
                 "If s contains \"abc\" or \"12a\", int.Parse throws FormatException." +
                 "So this is not completely safe." +
                 "Safe from null and invalid numeric input. No exception will occur.");
